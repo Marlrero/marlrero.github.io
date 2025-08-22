@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Marlrero"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "marlrero"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Paichai university, MIE Lab"
-  location         : "Daejeon"
+  bio              : "Tech. Lab."
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
@@ -110,9 +110,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/marlrero/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/mrtj0329"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://www.facebook.com/mrtj0329"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marlrero/"
@@ -120,24 +120,25 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url:
+    - label: "Instagram"
+      icon: "https://www.instagram.com/marlrero"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/Marlrero/"
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+
 
 
 # Reading Files
